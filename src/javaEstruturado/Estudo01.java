@@ -22,5 +22,16 @@ public class Estudo01 {
         System.out.print(peso);
         System.out.print(pi);
 
+        // Variáveis do tipo caractere
+        System.out.println("Variáveis do tipo caractere:");
+        char letra = 'J';
+
+        // Variáveis booleana (true or false)
+        System.out.println("Variáveis do tipo Boolean:");
+        boolean estouEstudando = true;
+
+        // Variáveis do tipo String
+        System.out.println("Variáveis do tipo String:");
+        String nome = "Samuel";
     }
 }
